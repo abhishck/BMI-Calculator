@@ -46,7 +46,9 @@ function App() {
     <>
       <div className="app ">
         <div className="container ">
+          <h1>rupesh</h1>
           <h1>BMI CALCULATOR</h1>
+          <button>click me</button>
           <form action="" onSubmit={calBmi}>
             <div>
               <label htmlFor="">Weight (lbs) :</label>
